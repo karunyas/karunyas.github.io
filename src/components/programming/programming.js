@@ -6,10 +6,10 @@ const Programming = () =>
     <div className="inner">
       <h1>Programming Languages</h1>
       <p>
-        Advanced: Python, C++, JavaScript, HTML, CSS, Java, Ruby on Rails, Node.js
+        Proficient: Python, C/C++, Java, HTML/CSS, Ruby / Rails, Swift
       </p>
       <p>
-        Intermediate: SQL, Scheme, Matlab, Swift
+        Familiar with Node.js, JavaScript, React, SQL
       </p>
     </div>
   </section>

@@ -1,2 +1,0 @@
-(self.webpackChunkgatsby_starter_hyperspace=self.webpackChunkgatsby_starter_hyperspace||[]).push([[883],{9616:function(e,t,a){"use strict";a.r(t);var r=a(7294),l=a(7068);t.default=function(){return r.createElement(l.Z,null,r.createElement("h1",null,"NOT FOUND"),r.createElement("p",null,"Not a valid URL"))}}}]);
-//# sourceMappingURL=component---src-pages-404-js-7407bc516d473e8ae601.js.map

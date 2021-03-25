@@ -5,7 +5,7 @@ const ContactInformation = () =>
     <ul className="contact">
       <li>
         <h3>Email</h3>
-        <a href="/#">karunyas@alum.mit.edu</a>
+        <a href="mailto: karunyas@alum.mit.edu">karunyas@alum.mit.edu</a>
       </li>
 
       <li>
