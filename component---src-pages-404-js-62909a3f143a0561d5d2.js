@@ -1,0 +1,2 @@
+(self.webpackChunkkarunya_sethuraman=self.webpackChunkkarunya_sethuraman||[]).push([[883],{9616:function(e,a,n){"use strict";n.r(a);var t=n(7294),u=n(7068);a.default=function(){return t.createElement(u.Z,null,t.createElement("h1",null,"NOT FOUND"),t.createElement("p",null,"Not a valid URL"))}}}]);
+//# sourceMappingURL=component---src-pages-404-js-62909a3f143a0561d5d2.js.map
