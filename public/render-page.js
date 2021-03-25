@@ -9997,24 +9997,24 @@ module.exports = function shallowEqual(objA, objB, compare, compareContext) {
 /***/ }),
 
 /***/ "react-dom/server":
-/*!****************************************************************************************************!*\
-  !*** external "/Users/Karunya/persona/gatsby-starter-hyperspace/node_modules/react-dom/server.js" ***!
-  \****************************************************************************************************/
+/*!*************************************************************************************!*\
+  !*** external "/Users/Karunya/karunyas.github.io/node_modules/react-dom/server.js" ***!
+  \*************************************************************************************/
 /***/ ((module) => {
 
 "use strict";
-module.exports = require("/Users/Karunya/persona/gatsby-starter-hyperspace/node_modules/react-dom/server.js");;
+module.exports = require("/Users/Karunya/karunyas.github.io/node_modules/react-dom/server.js");;
 
 /***/ }),
 
 /***/ "react":
-/*!***********************************************************************************************!*\
-  !*** external "/Users/Karunya/persona/gatsby-starter-hyperspace/node_modules/react/index.js" ***!
-  \***********************************************************************************************/
+/*!********************************************************************************!*\
+  !*** external "/Users/Karunya/karunyas.github.io/node_modules/react/index.js" ***!
+  \********************************************************************************/
 /***/ ((module) => {
 
 "use strict";
-module.exports = require("/Users/Karunya/persona/gatsby-starter-hyperspace/node_modules/react/index.js");;
+module.exports = require("/Users/Karunya/karunyas.github.io/node_modules/react/index.js");;
 
 /***/ }),
 

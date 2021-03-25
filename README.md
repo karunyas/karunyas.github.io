@@ -1,2 +1,1 @@
-# karunyas.github.io
-# karunyas.github.io my website
+Built using Gatsby and React.
