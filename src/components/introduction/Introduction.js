@@ -6,8 +6,9 @@ const Introduction = () =>
     <div className="inner">
       <h1>Karunya Sethuraman</h1>
       <p>
-        Hi, my name is Karunya Sethuraman, and I'm a recent CS graduate from MIT (S.B. & M.Eng '20), currently open to new opportunities. 
-      </p>
+        Hi, my name is Karunya Sethuraman, and I graduated from MIT with a S.B. & M.Eng in computer science in 2020. I currently work as a software engineer at Notion,
+        In my spare time, I also sculpt.
+        </p>
       <ul className="actions">
         <li>
           <Scroll type="id" element="one">
